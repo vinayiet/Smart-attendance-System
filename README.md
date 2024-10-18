@@ -1,4 +1,4 @@
-## **Facial Recognition Attendance System**  
+## **Smart Attendance System**  
 
 This project is a **facial recognition-based attendance system** that registers users and marks their attendance through captured images. It leverages **Streamlit** for the web interface, **MongoDB** for data storage, and **DeepFace** for facial recognition.
 
